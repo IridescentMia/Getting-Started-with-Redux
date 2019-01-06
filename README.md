@@ -2,7 +2,7 @@
 
 Dan Abramov 两套课程的练习代码
 
-Getting Started with Redux 和 Building React Applications with Idiomatic Redux
+[Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) 和 [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 按照课程小结，整理每小结课程同步的代码。
 
